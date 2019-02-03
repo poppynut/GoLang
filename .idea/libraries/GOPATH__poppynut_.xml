@@ -1,21 +1,18 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;poppynut&gt;">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../poppynut" />
+      <root url="file://$PROJECT_DIR$/.." />
       <root url="file://$PROJECT_DIR$/../../test1" />
       <root url="file://$PROJECT_DIR$/../../GolangTraining" />
       <root url="file://$PROJECT_DIR$/../../testproject" />
       <root url="file://$PROJECT_DIR$/../../Learning" />
-      <root url="file://$PROJECT_DIR$/.." />
     </CLASSES>
-    <JAVADOC />
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../poppynut" />
+      <root url="file://$PROJECT_DIR$/.." />
       <root url="file://$PROJECT_DIR$/../../test1" />
       <root url="file://$PROJECT_DIR$/../../GolangTraining" />
       <root url="file://$PROJECT_DIR$/../../testproject" />
       <root url="file://$PROJECT_DIR$/../../Learning" />
-      <root url="file://$PROJECT_DIR$/.." />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
